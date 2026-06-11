@@ -39,7 +39,7 @@ git --version
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/YudaFirdaus/struktur_data
+git clone https://github.com/abdimalikaabdimalika21-source/Struktur_Data
 ```
 
 ### 3. Masuk ke Direktori Proyek
